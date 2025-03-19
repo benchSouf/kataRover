@@ -1,7 +1,7 @@
 package rover;
 
 public class Rover {
-    int x, y;
+    private int x, y;
     Direction direction;
 
     public Rover(int x, int y, Direction direction) {

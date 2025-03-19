@@ -1,3 +1,5 @@
+package rover;
+
 import org.junit.jupiter.api.Test;
 import rover.Direction;
 
